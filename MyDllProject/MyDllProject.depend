@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1423766252 source:d:\downloads\documents\python\mydllproject\complex.cpp
+	"complex.h"
+
+1423766579 d:\downloads\documents\python\mydllproject\complex.h
+
+1423766303 source:d:\downloads\documents\python\mydllproject\createmidi.cpp
+	"createmidi.h"
+	<cstdio>
+	<vector>
+	<iostream>
+	<fstream>
+
+1423766607 d:\downloads\documents\python\mydllproject\createmidi.h
+	<vector>
+
+1423766345 source:d:\downloads\documents\python\mydllproject\dofft.cpp
+	"dofft.h"
+	"fft.h"
+	"complex.h"
+	"errorval.h"
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<vector>
+
+1423766631 d:\downloads\documents\python\mydllproject\dofft.h
+	<vector>
+
+1423766688 d:\downloads\documents\python\mydllproject\fft.h
+	"complex.h"
+
+1423767776 d:\downloads\documents\python\mydllproject\errorval.h
+
+1423766383 source:d:\downloads\documents\python\mydllproject\fft.cpp
+	"fft.h"
+	<math.h>
+
+1423766412 source:d:\downloads\documents\python\mydllproject\findnoteint.cpp
+	"errorval.h"
+	"findnoteint.h"
+	"notedata.h"
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<list>
+	<algorithm>
+
+1423766704 d:\downloads\documents\python\mydllproject\findnoteint.h
+	"notedata.h"
+	<vector>
+	<list>
+
+1423766805 d:\downloads\documents\python\mydllproject\notedata.h
+	<math.h>
+	<cstring>
+	<cstdio>
+
+1423766428 source:d:\downloads\documents\python\mydllproject\findnotes.cpp
+	"errorval.h"
+	"findnotes.h"
+	"notedata.h"
+	<cstdio>
+	<cstring>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1423766731 d:\downloads\documents\python\mydllproject\findnotes.h
+	<vector>
+
+1423766444 source:d:\downloads\documents\python\mydllproject\findpeaks.cpp
+	<cstdio>
+	<math.h>
+	<algorithm>
+	<vector>
+
+1423767853 source:d:\downloads\documents\python\mydllproject\findtempo.cpp
+	"errorval.h"
+	"findtempo.h"
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1423766767 d:\downloads\documents\python\mydllproject\findtempo.h
+	<vector>
+
+1423767539 source:d:\downloads\documents\python\mydllproject\interval.cpp
+	"interval.h"
+	"errorval.h"
+	"dofft.h"
+	"findpeaks.h"
+	"findnoteint.h"
+	<cstdio>
+	<math.h>
+	<algorithm>
+	<deque>
+	<vector>
+
+1423767578 d:\downloads\documents\python\mydllproject\interval.h
+	<vector>
+	<deque>
+
+1423766747 d:\downloads\documents\python\mydllproject\findpeaks.h
+	<vector>
+
+1423767683 source:d:\downloads\documents\python\mydllproject\main.cpp
+	"main.h"
+	"errorval.h"
+	"notedata.h"
+	"wavread.h"
+	"interval.h"
+	"dofft.h"
+	"findpeaks.h"
+	"findnotes.h"
+	"findtempo.h"
+	"createmidi.h"
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<algorithm>
+	<vector>
+	<math.h>
+
+1423767160 d:\downloads\documents\python\mydllproject\main.h
+
+1423766821 d:\downloads\documents\python\mydllproject\wavread.h
+	<vector>
+
+1423766552 source:d:\downloads\documents\python\mydllproject\wavread.cpp
+	"wavread.h"
+	<stdio.h>
+	<string.h>
+	<vector>
+	<fstream>
+
+1423767722 source:d:\downloads\documents\python\mydllproject\notedata.cpp
+	"notedata.h"
+
