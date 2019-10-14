@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.exe
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.pdb
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.exe
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Wave.resources
+c:\users\user\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Hscroll.resources
+C:\Users\USER\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Midi.resources
+C:\Users\USER\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Vscroll.resources
+C:\Users\USER\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Note.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
